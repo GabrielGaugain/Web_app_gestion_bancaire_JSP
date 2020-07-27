@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+
+
+	body{
+		background-color:#424242 ;
+		color: #E6E6E6;
+		
+		
+	}
+	h1{
+		margin-top: 20px;
+		color: #E6E6E6;
+		text-align : center;
+		text-transform: uppercase;
+	}
+	
+	h2{
+
+		margin: 20px 0 20px 50px;
+		color: #E6E6E6;
+		
+		text-transform: uppercase;
+	}
+	
+	table{
+		text-align:center;
+	}
+	
+	.deconnect a{
+		text-decoration: none;
+		color:#E6E6E6 ;
+		margin-right: 20px;
+		margin-left: 20px;
+	}
+	  
+	footer{
+	    padding: 10px;
+	    margin-top: 10px;
+	    color: #E6E6E6;
+	    text-align: center;
+	}
+	
